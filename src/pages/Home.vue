@@ -8,7 +8,7 @@
         height="100px"
         shrink-on-scroll
       >
-        <v-avatar size="40" style="padding-top: 10px">
+        <v-avatar size="50" style="padding-top: 10px">
           <v-img src="../../public/static/personal.jpg" />
         </v-avatar>
         <v-spacer />
